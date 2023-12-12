@@ -2,18 +2,20 @@
 ## Documentación V 1.0
 
 1. [Introducción](#introducción)	
-2. [Jugabilidad] (#jugabildad)	
-3. [Historia] (#historia)	
+2. [Jugabilidad](#jugabildad)	
+3. [Historia](#historia)	
 4. [Arte y diseño](#arte-y-diseño)
-5. [Tecnología] (#tecnología)
-6. [Marketing y distribución] (#marketing-y-distribución)
-7. [Epílogo] (#epilogo)
+5. [Tecnología](#tecnología)
+6. [Marketing y distribución](#marketing-y-distribución)
+7. [Epílogo](#epilogo)
 
 
 
 ## Introducción
 ### Título: Santa y el carbón
 ### Estudio o equipo de desarrollo: La armada vencible
+Rober Malou
+Pretherox
 Franco Leiva https://github.com/leiva7
 
 ### Género: Plataforma / juego casual
